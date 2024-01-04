@@ -1,7 +1,13 @@
 ## 진행사항
 
-|날짜|테마|문제번호|난이도|
-|------|---|:---:|:---:|
-|01.03|**String**|[11720](https://www.acmicpc.net/problem/11720)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/2.svg"/>|
-|||[10798](https://www.acmicpc.net/problem/10798)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/5.svg"/>|
-|||[1181](https://www.acmicpc.net/problem/1181)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/6.svg"/>|
+| 날짜 |    테마   | 그룹 |        문제번호        |        난이도        |
+|:----:|:---:|:---:|:---:|:--:|
+|01.03 |**String**|**All**|[11720](https://www.acmicpc.net/problem/11720)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/2.svg"/>|
+|      |          |       |[10798](https://www.acmicpc.net/problem/10798)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/5.svg"/>|
+|      |          |       |[1181](https://www.acmicpc.net/problem/1181)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/6.svg"/>|
+|01.04 |**Basic** |**A**|[2753](https://www.acmicpc.net/problem/2753)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/1.svg"/>|
+|      |          |       |[2742](https://www.acmicpc.net/problem/2742)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/2.svg"/>|
+|      |          |       |[10817](https://www.acmicpc.net/problem/10817)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/3.svg"/>|
+|      |**Math**  |**B**|[2581](https://www.acmicpc.net/problem/2581)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/4.svg"/>|
+|      |          |       |[1110](https://www.acmicpc.net/problem/1110)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/5.svg"/>|
+|      |          |       |[5347](https://www.acmicpc.net/problem/5347)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/6.svg"/>|
