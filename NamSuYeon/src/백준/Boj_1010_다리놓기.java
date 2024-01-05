@@ -14,14 +14,14 @@ public class Boj_1010_다리놓기 {
             int n = Integer.parseInt(input[0]);
             int m = Integer.parseInt(input[1]);
 
-            System.out.println(mix(m,n)/mix(n,n));
+            System.out.println(Math.round(mix(m,n)/mix(n,n)));
 
         }
 
     }
 
-    public static long mix(int num, int size){
-        long total = 1;
+    public static double mix(int num, int size){
+        double total = 1;
         for(int i = 0; i<size; i++){
             total *= num -i;
         }
