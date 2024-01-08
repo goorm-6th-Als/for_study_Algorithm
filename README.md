@@ -17,3 +17,7 @@
 |      |**DP**    |**B**|[10870](https://www.acmicpc.net/problem/10870)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/4.svg"/>|
 |      |          |       |[1010](https://www.acmicpc.net/problem/1010)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/6.svg"/>|
 |      |          |       |[2579](https://www.acmicpc.net/problem/2579)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/8.svg"/>|
+|01.08 |**Math**|**A**|[2480](https://www.acmicpc.net/problem/2480)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/2.svg"/>|
+|      |          |       |[22864](https://www.acmicpc.net/problem/22864)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/4.svg"/>|
+|      |**Brute** |**B**|[2798](https://www.acmicpc.net/problem/2798)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/4.svg"/>|
+|      |          |       |[2503](https://www.acmicpc.net/problem/2503)|<img height="20px" width="20px" src="https://static.solved.ac/tier_small/8.svg"/>|
