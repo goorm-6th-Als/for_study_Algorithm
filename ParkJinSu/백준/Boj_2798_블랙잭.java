@@ -24,12 +24,11 @@ public class Boj_2798_블랙잭 {
 		}
 		Arrays.sort(arr);
 		for(int i=n-1; i>1; i--) {
-			loop:for(int j=i-1; j>0;j--) {
+			for(int j=i-1; j>0;j--) {
 				if(arr[i]+arr[j] > m) continue;
 				for(int k=j-1; k>=0;k--) {
 					if(arr[i]+arr[j]+arr[k] <= m) {
 						max = Math.max(max, arr[i]+arr[j]+arr[k]);
-						break loop;
 					}
 				}// for k
 			}// for j
