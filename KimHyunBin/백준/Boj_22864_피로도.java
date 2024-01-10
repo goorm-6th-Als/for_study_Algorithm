@@ -1,3 +1,4 @@
+
 import java.util.*;
 import java.io.*;
 
@@ -9,13 +10,13 @@ public class Main { // 22864_피로도
 		int B = Integer.parseInt(st.nextToken()); // 능률
 		int C = Integer.parseInt(st.nextToken()); // 휴식
 		int M = Integer.parseInt(st.nextToken()); // 너무 피로해..
-		
+
 		int Max_hour = 24;
 		int time = 0;
 		int rest = 0;
 		int tired = 0;
 		int answer = 0;
-		
+
 		while(time < Max_hour) {
 			time ++;
 			if(tired + A <= M) {
@@ -25,8 +26,8 @@ public class Main { // 22864_피로도
 				tired -= C;
 			}
 		}
-		
+
 		System.out.println(answer);
 	}
-	
+
 }
