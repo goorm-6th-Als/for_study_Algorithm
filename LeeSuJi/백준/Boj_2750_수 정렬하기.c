@@ -5,7 +5,7 @@ int main() {
 	scanf("%d", &N);
 	int arr[1000] = { 0 };
 
-	for (int i = 0; i < N; i++) { //N°³ÀÇ Á¤¼ö¸¦ arr¿¡ »ðÀÔ
+	for (int i = 0; i < N; i++) { //NÂ°Â³Ã€Ã‡ ÃÂ¤Â¼Ã¶Â¸Â¦ arrÂ¿Â¡ Â»Ã°Ã€Ã”
 		scanf("%d", &arr[i]);
 	}
 
