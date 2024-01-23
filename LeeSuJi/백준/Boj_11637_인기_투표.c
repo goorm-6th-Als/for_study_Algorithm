@@ -15,7 +15,7 @@ int main() {
 	}
 
 	int large = 0; //정렬할 때 필요
-	int sum = 0; //과반수 구할 때 필요
+	
 
 	//sorted에 값 옮기기
 	for (int i = 0; i < T; i++) {
@@ -23,8 +23,11 @@ int main() {
 			sorted[i][j] = n[i][j];
 		}
 	}
+	
+	
 
 	for (int i = 0; i < T; i++) {
+		int sum = 0; //과반수 구할 때 필요
 		for (int j = 1; j < 11; j++) {
 			for (int k = 1; k < 11 - j; k++) { 
 				if (sorted[i][k] > sorted[i][k + 1]) { //오름차순 정렬
