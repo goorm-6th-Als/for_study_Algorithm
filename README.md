@@ -1,7 +1,7 @@
-> **알고리즘 스터디 진행일 : 14일째** ⏲
+> **알고리즘 스터디 진행일 : 15일째** ⏲
 > 
 >
-> **함께 해결한 문제 개수 : 50개!** ✏️
+> **함께 해결한 문제 개수 : 53개!** ✏️
 ---
 
 |  **날짜** |       **테마**       | **그룹** |                                         **난이도**                                         |          **문제명**          |                    **문제번호**                    | **🔴🟠🟡🟢⚪** | **코테 연습** | **문제번호** |
@@ -56,3 +56,6 @@
 | **01.20** |    **Brute Force**   |   **-**  |  **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/5.svg"/>** |        **일곱 난쟁이**       |  **[2309](https://www.acmicpc.net/problem/2309)**  |   **🟢**   |     **-**     |     **-**    |
 |   **-**   |     **implement**    |   **-**  |  **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/6.svg"/>** |         **인기 투표**        | **[11637](https://www.acmicpc.net/problem/11637)** |   **🟡**   |     **-**     |     **-**    |
 |   **-**   |   **Backtracking**   |   **-**  |  **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/9.svg"/>** |        **영재의 시험**       | **[19949](https://www.acmicpc.net/problem/19949)** |   **🟡**   |     **-**     |     **-**    |
+| **01.21** |    **Brute Force**   |   **-**  |  **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/6.svg"/>** |        **영화감독 숌**       |  **[1436](https://www.acmicpc.net/problem/1436)**  |   **🟢**   |     **-**     |     **-**    |
+|   **-**   |     **implement**    |   **-**  |  **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/8.svg"/>** |          **달팽이**          |  **[1913](https://www.acmicpc.net/problem/1913)**  |   **🟡**   |     **-**     |     **-**    |
+|   **-**   |       **Graph**      |   **-**  | **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/10.svg"/>** |          **돌다리**          | **[12761](https://www.acmicpc.net/problem/12761)** |   **🟡**   |     **-**     |     **-**    |
