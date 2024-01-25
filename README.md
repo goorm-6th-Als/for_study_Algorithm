@@ -1,7 +1,7 @@
-> **알고리즘 스터디 진행일 : 15일째** ⏲
+> **알고리즘 스터디 진행일 : 16일째** ⏲
 > 
 >
-> **함께 해결한 문제 개수 : 53개!** ✏️
+> **우리가 함께 해결한 문제 개수 : 56개!** ✏️
 ---
 
 |  **날짜** |       **테마**       | **그룹** |                                         **난이도**                                         |          **문제명**          |                    **문제번호**                    | **🔴🟠🟡🟢⚪** | **코테 연습** | **문제번호** |
@@ -50,12 +50,15 @@
 | **01.18** |     **implement**    |   **-**  |  **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/6.svg"/>** |     **🐜 기적의 매매법 🐜**    | **[20546](https://www.acmicpc.net/problem/20546)** |   **🟢**   |     **-**     |     **-**    |
 |   **-**   |  **DP Brute Force**  |   **-**  |  **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/7.svg"/>** |      **연속부분최대곱**      |  **[2670](https://www.acmicpc.net/problem/2670)**  |   **🟡**   |     **-**     |     **-**    |
 |   **-**   | **DP Binary Search** |   **-**  | **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/10.svg"/>** |  **징검다리 건너기 (large)** | **[22871](https://www.acmicpc.net/problem/22871)** |   **🟡**   |     **-**     |     **-**    |
-| **01.19** |     **recursion**    |   **-**  |  **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/6.svg"/>** |    **재귀함수가 뭔가요?**    | **[17478](https://www.acmicpc.net/problem/17478)** |   **🟢**   |     **-**     |     **-**    |
+| **01.22** |     **recursion**    |   **-**  |  **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/6.svg"/>** |    **재귀함수가 뭔가요?**    | **[17478](https://www.acmicpc.net/problem/17478)** |   **🟢**   |     **-**     |     **-**    |
 |   **-**   |     **implement**    |   **-**  |  **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/7.svg"/>** |      **수 이어 쓰기 1**      |  **[1748](https://www.acmicpc.net/problem/1748)**  |   **🟢**   |     **-**     |     **-**    |
 |   **-**   |     **recursion**    |   **-**  |  **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/8.svg"/>** |         **N과 M (3)**        | **[15651](https://www.acmicpc.net/problem/15651)** |   **🟡**   |     **-**     |     **-**    |
-| **01.20** |    **Brute Force**   |   **-**  |  **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/5.svg"/>** |        **일곱 난쟁이**       |  **[2309](https://www.acmicpc.net/problem/2309)**  |   **🟢**   |     **-**     |     **-**    |
+| **01.23** |    **Brute Force**   |   **-**  |  **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/5.svg"/>** |        **일곱 난쟁이**       |  **[2309](https://www.acmicpc.net/problem/2309)**  |   **🟢**   |     **-**     |     **-**    |
 |   **-**   |     **implement**    |   **-**  |  **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/6.svg"/>** |         **인기 투표**        | **[11637](https://www.acmicpc.net/problem/11637)** |   **🟡**   |     **-**     |     **-**    |
 |   **-**   |   **Backtracking**   |   **-**  |  **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/9.svg"/>** |        **영재의 시험**       | **[19949](https://www.acmicpc.net/problem/19949)** |   **🟡**   |     **-**     |     **-**    |
-| **01.21** |    **Brute Force**   |   **-**  |  **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/6.svg"/>** |        **영화감독 숌**       |  **[1436](https://www.acmicpc.net/problem/1436)**  |   **🟢**   |     **-**     |     **-**    |
+| **01.24** |    **Brute Force**   |   **-**  |  **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/6.svg"/>** |        **영화감독 숌**       |  **[1436](https://www.acmicpc.net/problem/1436)**  |   **🟢**   |     **-**     |     **-**    |
 |   **-**   |     **implement**    |   **-**  |  **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/8.svg"/>** |          **달팽이**          |  **[1913](https://www.acmicpc.net/problem/1913)**  |   **🟡**   |     **-**     |     **-**    |
 |   **-**   |       **Graph**      |   **-**  | **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/10.svg"/>** |          **돌다리**          | **[12761](https://www.acmicpc.net/problem/12761)** |   **🟡**   |     **-**     |     **-**    |
+| **01.25** |     **implement**    |   **-**  |  **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/7.svg"/>** |     **쿠키의 신체 측정**     | **[20125](https://www.acmicpc.net/problem/20125)** |   **🟡**   |     **-**     |     **-**    |
+|   **-**   |      **Greedy**      |   **-**  |  **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/8.svg"/>** |        **햄버거 분배**       | **[19941](https://www.acmicpc.net/problem/19941)** |   **🟢**   |     **-**     |     **-**    |
+|   **-**   |        **DP**        |   **-**  | **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/10.svg"/>** |          **지름길**          |  **[1446](https://www.acmicpc.net/problem/1446)**  |   **🟡**   |     **-**     |     **-**    |
