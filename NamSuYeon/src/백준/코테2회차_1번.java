@@ -6,6 +6,7 @@ import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
 public class 코테2회차_1번 {
+    // 2563_색종이
     static boolean[][] whitePage = new boolean[101][101];
 
     public static void main(String[] args) throws IOException {
