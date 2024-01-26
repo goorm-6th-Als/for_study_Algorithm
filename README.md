@@ -1,7 +1,8 @@
-> **알고리즘 스터디 진행일 : 16일째** ⏲
-> 
+> **알고리즘 스터디 진행일 : 18일째** ⏲
 >
 > **우리가 함께 해결한 문제 개수 : 56개!** ✏️
+>
+>  **코테 연습  : 2회차 !** 💻
 ---
 
 |  **날짜** |       **테마**       | **그룹** |                                         **난이도**                                         |          **문제명**          |                    **문제번호**                    | **🔴🟠🟡🟢⚪** | **코테 연습** | **문제번호** |
@@ -9,9 +10,9 @@
 | **01.03** |      **String**      |  **All** |  **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/1.svg"/>** |         **숫자의합**         | **[11720](https://www.acmicpc.net/problem/11720)** |   **🟢**   |   **1회차**   |   **1260**   |
 |   **-**   |         **-**        |   **-**  |  **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/1.svg"/>** |         **세로읽기**         | **[10798](https://www.acmicpc.net/problem/10798)** |   **🟢**   |   **01.19**   |   **1789**   |
 |   **-**   |         **-**        |   **-**  |  **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/6.svg"/>** |         **단어읽기**         |  **[1181](https://www.acmicpc.net/problem/1181)**  |   **🟢**   |  **S5 - S1**  |   **22869**  |
-| **01.04** |       **Basic**      |   **A**  |  **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/1.svg"/>** |           **윤년**           |  **[2753](https://www.acmicpc.net/problem/2753)**  |   **🟢**   |     **-**     |     **-**    |
-|   **-**   |         **-**        |   **-**  |  **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/2.svg"/>** |           **기찍N**          |  **[2742](https://www.acmicpc.net/problem/2742)**  |   **🟢**   |     **-**     |     **-**    |
-|   **-**   |         **-**        |   **-**  |  **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/3.svg"/>** |           **세수**           | **[10817](https://www.acmicpc.net/problem/10817)** |   **🟢**   |     **-**     |     **-**    |
+| **01.04** |       **Basic**      |   **A**  |  **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/1.svg"/>** |           **윤년**           |  **[2753](https://www.acmicpc.net/problem/2753)**  |   **🟢**   |   **2회차**   |   **2563**   |
+|   **-**   |         **-**        |   **-**  |  **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/2.svg"/>** |           **기찍N**          |  **[2742](https://www.acmicpc.net/problem/2742)**  |   **🟢**   |   **01.26**   |   **2579**   |
+|   **-**   |         **-**        |   **-**  |  **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/3.svg"/>** |           **세수**           | **[10817](https://www.acmicpc.net/problem/10817)** |   **🟢**   |  **S5 - S2**  |   **19949**  |
 |   **-**   |       **Math**       |   **B**  |  **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/4.svg"/>** |           **소수**           |  **[2581](https://www.acmicpc.net/problem/2581)**  |   **🟢**   |     **-**     |     **-**    |
 |   **-**   |         **-**        |   **-**  |  **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/5.svg"/>** |       **더하기사이클**       |  **[1110](https://www.acmicpc.net/problem/1110)**  |   **🟢**   |     **-**     |     **-**    |
 |   **-**   |         **-**        |   **-**  |  **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/6.svg"/>** |            **LCM**           |  **[5347](https://www.acmicpc.net/problem/5347)**  |   **🟡**   |     **-**     |     **-**    |
