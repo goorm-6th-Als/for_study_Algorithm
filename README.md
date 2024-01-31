@@ -1,6 +1,6 @@
-> **알고리즘 스터디 진행일 : 18일째** ⏲
+> **알고리즘 스터디 진행일 : 20 일째** ⏲
 >
-> **우리가 함께 해결한 문제 개수 : 56개!** ✏️
+> **우리가 함께 해결한 문제 개수 : 60개!** ✏️
 >
 >  **코테 연습  : 2회차 !** 💻
 >
@@ -66,3 +66,7 @@
 | **01.25** |     **implement**    |   **-**  |  **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/7.svg"/>** |     **쿠키의 신체 측정**     | **[20125](https://www.acmicpc.net/problem/20125)** |   **🟡**   |     **-**     |     **-**    |
 |   **-**   |      **Greedy**      |   **-**  |  **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/8.svg"/>** |        **햄버거 분배**       | **[19941](https://www.acmicpc.net/problem/19941)** |   **🟢**   |     **-**     |     **-**    |
 |   **-**   |        **DP**        |   **-**  | **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/10.svg"/>** |          **지름길**          |  **[1446](https://www.acmicpc.net/problem/1446)**  |   **🟡**   |     **-**     |     **-**    |
+| **01.30** |     **implement**    |   **-**  |  **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/8.svg"/>** |         **NBA 농구**         |  **[2852](https://www.acmicpc.net/problem/2852)**  |   **🟢**   |     **-**     |     **-**    |
+| **01.31** |    **Brute Force**   |   **-**  |  **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/7.svg"/>** |           **한수**           |  **[1065](https://www.acmicpc.net/problem/1065)**  |   **🟢**   |     **-**     |     **-**    |
+|   **-**   |       **Graph**      |   **-**  |  **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/9.svg"/>** |          **A -> B**          | **[16953](https://www.acmicpc.net/problem/16953)** |   **🟡**   |     **-**     |     **-**    |
+|   **-**   |       **Graph**      |   **-**  | **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/10.svg"/>** |       **음식물 피하기**      |  **[1743](https://www.acmicpc.net/problem/1743)**  |   **🟡**   |     **-**     |     **-**    |
