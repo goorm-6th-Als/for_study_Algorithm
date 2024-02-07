@@ -1,9 +1,9 @@
-> **알고리즘 스터디 진행일 : 20 일째** ⏲
->
-> **우리가 함께 해결한 문제 개수 : 60개!** ✏️
->
->  **코테 연습  : 2회차 !** 💻
->
+ **알고리즘 스터디 진행일 : 23 일째** ⏲
+
+ **우리가 함께 해결한 문제 개수 : 67개!** ✏️
+
+  **코테 연습  : 2회차 !** 💻
+
 ---
 - 링크 오류로, 403 Page에서 새로고침하면 들어가집니다.
 ---
@@ -70,3 +70,10 @@
 | **01.31** |    **Brute Force**   |   **-**  |  **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/7.svg"/>** |           **한수**           |  **[1065](https://www.acmicpc.net/problem/1065)**  |   **🟢**   |     **-**     |     **-**    |
 |   **-**   |       **Graph**      |   **-**  |  **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/9.svg"/>** |          **A -> B**          | **[16953](https://www.acmicpc.net/problem/16953)** |   **🟡**   |     **-**     |     **-**    |
 |   **-**   |       **Graph**      |   **-**  | **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/10.svg"/>** |       **음식물 피하기**      |  **[1743](https://www.acmicpc.net/problem/1743)**  |   **🟡**   |     **-**     |     **-**    |
+| **02.01** |    **Brute Force**   |   **-**  |  **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/8.svg"/>** |         **정사각형**         |  **[1051](https://www.acmicpc.net/problem/1051)**  |   **🟢**   |     **-**     |     **-**    |
+|   **-**   |     **Graph, DP**    |   **-**  | **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/10.svg"/>** |       **1로 만들기 2**      | **[12852](https://www.acmicpc.net/problem/12852)** |   **🟡**   |     **-**     |     **-**    |
+| **02.02** |      **Sorting**     |   **-**  |  **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/8.svg"/>** |        **시리얼 번호**       |  **[1431](https://www.acmicpc.net/problem/1431)**  |   **🟡**   |     **-**     |     **-**    |
+|   **-**   |      **Sorting**     |   **-**  |  **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/9.svg"/>** |           **약속**           |  **[1183](https://www.acmicpc.net/problem/1183)**  |   **🟡**   |     **-**     |     **-**    |
+| **02.05** |        **Que**       |   **-**  |  **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/7.svg"/>** |            **큐2**           | **[18258](https://www.acmicpc.net/problem/18258)** |   **🟢**   |     **-**     |     **-**    |
+|   **-**   |       **Stack**      |   **-**  |  **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/7.svg"/>** |           **괄호**           |  **[9012](https://www.acmicpc.net/problem/9012)**  |   **🟢**   |     **-**     |     **-**    |
+|   **-**   |    **Que, Stack**    |   **-**  |  **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/8.svg"/>** |        **queuestack**        | **[24511](https://www.acmicpc.net/problem/24511)** |   **🟢**   |     **-**     |     **-**    |
