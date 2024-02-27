@@ -1,6 +1,6 @@
- **알고리즘 스터디 진행일 : 30 일째** ⏲
+ **알고리즘 스터디 진행일 : 31 일째** ⏲
 
- **우리가 함께 해결한 문제 개수 : 82개!** ✏️
+ **우리가 함께 해결한 문제 개수 : 84개!** ✏️
 
   **코테 연습  : 3회차 !** 💻
 
@@ -92,3 +92,5 @@
 |   **-**   |        **DP**        |   **준수**   |  **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/9.svg"/>** | **가장 긴 증가하는 부분 수열** | **[11053](https://www.acmicpc.net/problem/11053)** |   **🟡**   |     **-**     |     **-**    |
 |   **-**   |        **DP**        |   **수연**   | **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/10.svg"/>** |           **RGB거리**          |  **[1149](https://www.acmicpc.net/problem/1149)**  |   **🟡**   |     **-**     |     **-**    |
 |   **-**   |        **DP**        |   **현빈**   | **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/11.svg"/>** |            **호텔**            |  **[1106](https://www.acmicpc.net/problem/1106)**  |   **🟠**   |     **-**     |     **-**    |
+| **02.27** |        **DP**        |     **-**    |  **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/8.svg"/>** |          **돌 게임 3**         |  **[9657](https://www.acmicpc.net/problem/9657)**  |   **🟢**   |     **-**     |     **-**    |
+|   **-**   |        **DP**        |     **-**    | **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/10.svg"/>** |       **떡 먹는 호랑이**       |  **[2502](https://www.acmicpc.net/problem/2502)**  |   **🟡**   |     **-**     |     **-**    |
