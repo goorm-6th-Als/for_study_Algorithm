@@ -1,6 +1,6 @@
- **알고리즘 스터디 진행일 : 32 일째** ⏲
+ **알고리즘 스터디 진행일 : 34 일째** ⏲
 
- **우리가 함께 해결한 문제 개수 : 86개!** ✏️
+ **우리가 함께 해결한 문제 개수 : 90개!** ✏️
 
   **코테 연습  : 3회차 !** 💻
 
@@ -94,3 +94,9 @@
 |   **-**   |        **DP**        |   **현빈**   | **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/11.svg"/>** |            **호텔**            |  **[1106](https://www.acmicpc.net/problem/1106)**  |   **🟠**   |     **-**     |     **-**    |
 | **02.27** |        **DP**        |     **-**    |  **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/8.svg"/>** |          **돌 게임 3**         |  **[9657](https://www.acmicpc.net/problem/9657)**  |   **🟢**   |     **-**     |     **-**    |
 |   **-**   |        **DP**        |     **-**    | **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/10.svg"/>** |       **떡 먹는 호랑이**       |  **[2502](https://www.acmicpc.net/problem/2502)**  |   **🟡**   |     **-**     |     **-**    |
+| **02.29** |        **DP**        |     **-**    |  **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/8.svg"/>** |            **악수**            |  **[8394](https://www.acmicpc.net/problem/8394)**  |   **🟢**   |     **-**     |     **-**    |
+|   **-**   |        **DP**        |     **-**    | **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/10.svg"/>** |         **포도주 시식**        |  **[2156](https://www.acmicpc.net/problem/2156)**  |   **🟡**   |     **-**     |     **-**    |
+| **03.05** |   **Binary Search**  |     **-**    |  **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/7.svg"/>** |           **암기왕**           |  **[2776](https://www.acmicpc.net/problem/2776)**  |   **🟡**   |     **-**     |     **-**    |
+|   **-**   |   **Binary Search**  |     **-**    |  **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/8.svg"/>** |   **먹을 것인가 먹힐 것인가**  |  **[7795](https://www.acmicpc.net/problem/7795)**  |   **🟡**   |     **-**     |     **-**    |
+| **03.06** |   **Binary Search**  |     **-**    |  **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/8.svg"/>** |            **게임**            |  **[1072](https://www.acmicpc.net/problem/1072)**  |   **🟡**   |     **-**     |     **-**    |
+|   **-**   |   **Binary Search**  |     **-**    | **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/10.svg"/>** |          **기타레슨**          |  **[2343](https://www.acmicpc.net/problem/2343)**  |   **🟠**   |     **-**     |     **-**    |
