@@ -1,6 +1,6 @@
- **알고리즘 스터디 진행일 : 34 일째** ⏲
+ **알고리즘 스터디 진행일 : 38 일째** ⏲
 
- **우리가 함께 해결한 문제 개수 : 90개!** ✏️
+ **우리가 함께 해결한 문제 개수 : 97개!** ✏️
 
   **코테 연습  : 3회차 !** 💻
 
@@ -100,3 +100,10 @@
 |   **-**   |   **Binary Search**  |     **-**    |  **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/8.svg"/>** |   **먹을 것인가 먹힐 것인가**  |  **[7795](https://www.acmicpc.net/problem/7795)**  |   **🟡**   |     **-**     |     **-**    |
 | **03.06** |   **Binary Search**  |     **-**    |  **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/8.svg"/>** |            **게임**            |  **[1072](https://www.acmicpc.net/problem/1072)**  |   **🟡**   |     **-**     |     **-**    |
 |   **-**   |   **Binary Search**  |     **-**    | **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/10.svg"/>** |          **기타레슨**          |  **[2343](https://www.acmicpc.net/problem/2343)**  |   **🟠**   |     **-**     |     **-**    |
+| **03.08** |   **Binary Search**  |     **-**    | **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/10.svg"/>** |         **랜선자르기**         |  **[1654](https://www.acmicpc.net/problem/1654)**  |   **🟡**   |     **-**     |     **-**    |
+| **03.12** |   **Binary Search**  |     **-**    |  **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/9.svg"/>** |          **파닭파닭**          | **[14627](https://www.acmicpc.net/problem/14627)** |   **🟢**   |     **-**     |     **-**    |
+|   **-**   |   **Binary Search**  |     **-**    | **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/10.svg"/>** |          **보석상자**          |  **[2792](https://www.acmicpc.net/problem/2792)**  |   **🟡**   |     **-**     |     **-**    |
+| **03.14** |   **Binary Search**  |     **-**    | **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/11.svg"/>** |         **공유기 설치**        |  **[2110](https://www.acmicpc.net/problem/2110)**  |   **🟠**   |     **-**     |     **-**    |
+|   **-**   |   **Binary Search**  |     **-**    | **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/12.svg"/>** |          **개똥벌레**          |  **[3020](https://www.acmicpc.net/problem/3020)**  |   **🟠**   |     **-**     |     **-**    |
+| **03.19** |      **HashMap**     |     **-**    |  **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/7.svg"/>** |         **베스트 셀러**        |  **[1302](https://www.acmicpc.net/problem/1302)**  |   **🟡**   |     **-**     |     **-**    |
+|   **-**   |      **HashMap**     |     **-**    | **<img   height="20px" width="20px"   src="https://static.solved.ac/tier_small/10.svg"/>** |            **추월**            |  **[2002](https://www.acmicpc.net/problem/2002)**  |   **🟠**   |     **-**     |     **-**    |
